@@ -1,0 +1,311 @@
+html,body{
+}
+.pro-show{
+  overflow: hidden;
+}
+.historyGroup{
+  text-align: center;
+  position: relative;
+  bottom: 0.19rem;
+}
+.historyGroupOne{
+  margin-bottom: 0.2rem;
+}
+.historyGroup ul,.historyGroupOne ul{
+  text-align: left;
+  border:1px solid #FFC000;
+  border-radius: 5px;
+  margin:0 0.16rem;
+  border-top: none;
+  padding: 0.1rem;
+}
+.historyGroup ul>li,.historyGroupOne ul>li{
+  font-size: 0.12rem;
+  display: flex;
+  padding: 0.025rem 0;
+}
+.historyGroup img{
+  width: 20%;
+}
+.historyGroupOne img{
+  width: 100%;
+  position: relative;
+  top: 0.15rem;
+}
+.spanLeft{
+  flex: 1;
+}
+.spanRight{
+  flex: 0.35;
+  text-align: right;
+}
+.countdown-bg{
+    color: white;
+  }
+  .users{
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    flex-direction: row;
+  }
+  .clocks{
+    text-align: right;
+    padding: 0.8rem 0.2rem 0.06rem 0;
+  }
+  .clocks>img{
+    vertical-align: sub;
+  }
+  .clocks>b{
+    font-size:0.18rem;
+  }
+  .users>dl{
+    flex:1;
+    justify-content:space-around;
+    text-align: center;
+  }
+  .users>dl img{
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 50%;
+    border: 4px solid white;
+  }
+  .users>dl>dt{
+    /* border:1px solid; */
+    position: relative;
+  }
+  .users>dl>dt>div{
+    position: absolute;
+    background: #FFFFAF;
+    color: #FF8626;
+    bottom: -0.04rem;
+    left: 0.42rem;
+    width: 0.4rem;
+    border-radius: 10px;
+    font-size: 0.1rem;
+  }
+  .users>dl dd{
+    padding: 0.1rem 0 0.25rem 0;
+    font-size: 0.15rem;
+  }
+  .title{
+    color:white;
+    height: 0.4rem;
+    line-height: 0.4rem;
+    font-size: 0.17rem;
+    padding-left: 0.1rem;
+  }
+  .userList{
+    border:1px solid #FF9C00;
+    border-radius: 5px;
+    margin: 0rem 0.12rem 0.2rem 0.12rem;
+  }
+  .userList .title{
+    background: #FF9C00;
+  }
+  .userList ul>li{
+    display: flex;
+    height: 0.8rem;
+    line-height: 0.8rem;
+    margin:0.05rem;
+    border-bottom:1px solid #ccc;
+  }
+  .userList ul>li button{
+    font-size: 0.15rem;
+  }
+  .userList ul>li>.li-left{
+    flex:0.4;
+    overflow: hidden;
+  }
+  .userList ul>li>.li-left>img{
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+  }
+  .userList ul>li>.li-middle{
+    flex:0.35;
+    line-height: normal;
+    padding-top: 0.2rem;
+    text-align: center;
+  }
+  .userList ul>li>.li-right{
+    flex:0.25;
+  }
+  .userList ul>li>.li-middle>span{
+    font-size:14px;
+    display: block;
+  }
+  .details{
+    border:1px solid #698BEE;
+    border-radius: 5px;
+    margin: 0rem 0.12rem 1rem 0.12rem;
+  }
+  .details .title{
+    background-color: #698BEE;
+    text-align: center
+  }
+  .btn{
+    border:none;
+    color:white;
+    border-radius: 5px;
+    padding: 0.1rem;
+  }
+  .btn-blue{
+    background: -webkit-linear-gradient(top,#6967D7,#6C9AF7);
+  }
+  .btn-sunshine{
+    background: -webkit-linear-gradient(top,#FF8400,#FFB400);
+  }
+  .btn-group{
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+    padding: 0.1rem 0;
+    box-shadow: #333 0 0.05rem 0.3rem;
+    z-index: 99;
+  }
+  .btn-group>button{
+    flex: 1;
+    font-size: 0.19rem;
+    margin: 0 0.1rem;
+  }
+  .rules-btn img{
+    width:10%;
+    position: fixed;
+    right:0;
+    top:2.5rem;
+  }
+  .rules{
+    font-size: 0.13rem;
+  }
+  .rules h1{
+    text-align: center;
+    padding-bottom: 0.1rem;
+  }
+  .rules>p{
+    margin-top: 0.1rem;
+    margin-bottom: 0.2rem;
+  }
+  .rules h2,.rules h1,.rules label{
+    color:#FF8800;
+  }
+  .rules div{
+    padding:0.1rem 0;
+  }
+  .joinGroup,.continueJoinGroup,.openGroup,.msgBox{
+    text-align: center;
+  }
+  .joinGroup>p{
+    margin-top:0.1rem;
+  }
+  .joinGroup>div{
+    display: flex;
+    margin-top:0.2rem;
+  }
+  .joinGroup>div>dl{
+    flex: 1;
+  }
+  .joinGroup>div>dl>dd{
+    margin-top: 0.1rem;
+    color:#FF8800;
+  }
+  .joinGroup>div>dl img{
+    width: 0.8rem;
+    height: 0.8rem;
+    border-radius: 50%;
+  }
+  .joinGroup label{
+    color:#FF8800;
+  }
+  .continueJoinGroup p>img,.openGroup p>img,.msgBox p>img{
+    width:40%;
+  }
+  .continueJoinGroup>div,.openGroup>div,.msgBox>div{
+    text-align: center;
+    padding-top: 0.2rem;
+    font-size: 0.15rem;
+  }
+  .share{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 3.75rem;
+    height:100%;
+    background:rgba(0,0,0,0.5);
+    z-index:999;
+  }
+  .share img{
+      width: 100%;
+  }
+
+  /*待支付页样式*/
+  .fx_con {
+    border: 2px solid rgba(255,177,0,1);
+    border-radius: 0.05rem;
+    margin: 0.15rem;
+    padding-bottom: 0.15rem;
+  }
+  .fx_tex {
+    color: #333;
+    font-size: 0.16rem;
+    padding: 0.15rem;
+    font-weight: bold;
+    text-align: justify;
+  }
+  .fx_tex p{
+    margin-bottom: 0.15rem;
+  }
+.tuan_list {
+  display: flex;
+  padding: 0.1rem;
+}
+  .qpd_con{text-align: center;}
+  .qpd_con .tuan_list {padding: 0.2rem 0.2rem 0.1rem;}
+  .qpd_con .tuan_list a{color: #FF7800;}
+  .qpd_con .tuan_list a:first-child img{border: 0.04rem solid #F18162;}
+  .pt_btn { text-align: center; margin: 0 0.2rem;}
+  .pt_btn a{ display:inline-block; width: 1.6rem; height: 0.44rem;line-height: 0.44rem;text-align: center;font-size: 0.18rem;background: -webkit-linear-gradient(top,#FF8400,#FFB400);color: #fff;margin-top: .1rem; border-radius: 0.05rem;}
+.tuan_list a {
+  position: relative;
+  display: block;
+  width: 33%;
+  -webkit-box-flex: 1;
+  text-align: center;
+  color: #fff;
+  font-size: 0.11rem;
+}
+.tuan_list img {
+  width: 0.64rem;
+  height: 0.64rem;
+  margin-bottom: 0.075rem;
+  border: 0.04rem solid #fff;
+  border-radius: 0.4rem;
+}
+.time2 {
+  font-size: 0.15rem;
+  color: #333;
+  text-align: center;
+  margin-top: 0.075rem;
+  height: 0.25rem;
+}
+  .el-dialog{
+    border-radius: 5px !important;
+  }
+.tuan_list a span {
+  position: absolute;
+  left: 50%;
+  bottom: 0.06rem;
+  display: block;
+  text-align: center;
+  padding: 0.025rem 0.075rem;
+  background-color: #FFFFAF;
+  font-size: 0.11rem;
+  color: #FF7800;
+  border-radius: 0.1rem;
+  transform: translate(-50%,0);
+}

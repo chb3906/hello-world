@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" style="font-size: 100px;">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title></title>
+</head>
+
+<body>
+   <!--loading遮罩-->
+   <div class="shadow" style="display: block">
+      <div class="shadow_content">
+         跳转中...
+      </div>
+   </div>
+</body>
+
+</html>
+
+<script>
+   window.onload = function () {
+      let applySignUrl = window.sessionStorage.getItem('applySignUrl')
+      let myRouter = window.sessionStorage.getItem('myRouter')
+      let proInsurUrlParam = window.sessionStorage.getItem('proInsurUrlParam')//返回投保页所需参数
+      let isSigned = window.sessionStorage.getItem('isSigned')//签约标记
+      let orderCode = window.sessionStorage.getItem('orderCode')//订单号
+      let openId = window.sessionStorage.getItem('openId');//openid
+      let signContractUser = window.sessionStorage.getItem('signContractUser')//签约用户的姓名
+      let productId = window.sessionStorage.getItem('productId')//产品id
+      let styleId = window.sessionStorage.getItem('styleId')
+      let id = window.sessionStorage.getItem('id')
+      let channelCode = window.sessionStorage.getItem('channelCode')
+      let orgCode = window.sessionStorage.getItem('orgCode')
+      let oldPolicyNo = window.sessionStorage.getItem('oldPolicyNo')
+
+      if (isSigned && isSigned == '0') {//若未签约
+         window.sessionStorage.removeItem('isSigned')
+         window.location.href = decodeURIComponent(applySignUrl)
+      } else {
+         window.location.href = `/#/ApplySignRedirect`
+      }
+   }
+
+   //获取Url中的某个参数值
+   function getUrlValueByName(paraName) {
+      var url = document.location.toString();
+      var arrObj = url.split("?");
+      if (arrObj.length > 1) {
+         var arrPara = arrObj[1].split("&");
+         var arr;
+         for (var i = 0; i < arrPara.length; i++) {
+            arr = arrPara[i].split("=");
+            if (arr != null && arr[0] == paraName) {
+               return arr[1];
+            }
+         }
+         return "";
+      } else {
+         return "";
+      }
+   }
+</script>
+<style>
+   .shadow {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      /* width: 3.75rem; */
+      height: 100%;
+      background: rgba(0, 0, 0, 0.3);
+   }
+
+   .shadow_content {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 1.75rem;
+      height: 1.75rem;
+      line-height: 1.75rem;
+      margin-top: -0.875rem;
+      margin-left: -0.875rem;
+      color: white;
+      /*font-weight: bold;*/
+      text-align: center;
+      font-size: 20px;
+   }
+</style>

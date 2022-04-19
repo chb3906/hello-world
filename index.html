@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no,viewport-fit=cover" />
+  <title></title>
+  <style>
+    body {
+      padding-bottom: constant(safe-area-inset-bottom) !important;
+      /* 兼容 iOS < 11.2 */
+      padding-bottom: env(safe-area-inset-bottom) !important;
+      /* 兼容 iOS >= 11.2 */
+    }
+
+    .el-date-picker__prev-btn {
+      margin-right: 10px !important; 
+    }
+
+    .el-date-picker__next-btn {
+      margin-left: 10px !important;
+    }
+  </style>
+  <!-- <script type="text/javascript" src="https://appx/web-view.min.js"></script> -->
+  <!-- 如该 H5 页面需要同时在非支付宝客户端内使用，为避免该请求404，可参考以下写法 -->
+  <!-- 请尽量在 html 头部执行以下脚本 -->
+  <script>
+    if (navigator.userAgent.indexOf('AlipayClient') > -1) {
+      document.writeln('<script src="https://appx/web-view.min.js"' + '>' + '<' + '/' + 'script>');
+
+      // 判断是否运行在支付宝小程序环境里
+      setTimeout(() => {
+        my.getEnv(function (res) {
+          if (res.miniprogram) {
+            window.sessionStorage.setItem('isAlipayMiniFlag', res.miniprogram);
+          }
+        });
+      }, 2000)
+    }
+
+
+  </script>
+</head>
+
+<body>
+  <div id="app"></div>
+  <script src="https://preview.sinosig.com/track-js-new/js/nisrUrls.js"></script>
+  <script src="./static/nisrMainImport.js"></script>
+  <script src="https://preview.sinosig.com/track-js-new/js/rrweb-record.min.js"></script>
+  <script src="https://preview.sinosig.com/track-js-new/js/index.js"></script>
+
+</body>
+
+</html>

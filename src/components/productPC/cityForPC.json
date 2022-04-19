@@ -1,0 +1,3892 @@
+{
+  "content": [
+    {
+      "regionLv": 1,
+      "regionId": 18,
+      "label": "北京",
+      "fulllabel": "北京",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 242,
+          "label": "朝阳区",
+          "fulllabel": "北京朝阳区",
+          "value": "01500400",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 240,
+          "label": "中关村",
+          "fulllabel": "北京中关村",
+          "value": "01512800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 234,
+          "label": "大兴",
+          "fulllabel": "北京大兴",
+          "value": "01522800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 235,
+          "label": "亦庄",
+          "fulllabel": "北京亦庄",
+          "value": "01542800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 241,
+          "label": "东城",
+          "fulllabel": "北京东城",
+          "value": "01552800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 236,
+          "label": "通州",
+          "fulllabel": "北京通州",
+          "value": "01562800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 237,
+          "label": "房山",
+          "fulllabel": "北京房山",
+          "value": "01572800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 238,
+          "label": "平谷",
+          "fulllabel": "北京平谷",
+          "value": "01582800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 233,
+          "label": "顺义",
+          "fulllabel": "北京顺义",
+          "value": "01592800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 232,
+          "label": "延庆",
+          "fulllabel": "北京延庆",
+          "value": "01602800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 239,
+          "label": "昌平",
+          "fulllabel": "北京昌平",
+          "value": "01612800",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 461,
+          "label": "其它地区",
+          "fulllabel": "北京其它地区",
+          "value": "01681700",
+          "parentId": 18
+        },
+        {
+          "regionLv": 2,
+          "regionId": 231,
+          "label": "北京市",
+          "fulllabel": "北京北京市",
+          "value": "01682900",
+          "parentId": 18
+        }
+      ],
+      "value": "01681700",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 19,
+      "label": "山东",
+      "fulllabel": "山东",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 462,
+          "label": "其它地区",
+          "fulllabel": "山东其它地区",
+          "value": "02120600",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 247,
+          "label": "济南市",
+          "fulllabel": "山东济南市",
+          "value": "02129700",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 245,
+          "label": "东营市",
+          "fulllabel": "山东东营市",
+          "value": "02524000",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 255,
+          "label": "潍坊市",
+          "fulllabel": "山东潍坊市",
+          "value": "02533000",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 254,
+          "label": "威海市",
+          "fulllabel": "山东威海市",
+          "value": "02542200",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 258,
+          "label": "淄博市",
+          "fulllabel": "山东淄博市",
+          "value": "02553300",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 256,
+          "label": "烟台市",
+          "fulllabel": "山东烟台市",
+          "value": "02562900",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 250,
+          "label": "聊城市",
+          "fulllabel": "山东聊城市",
+          "value": "02573200",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 252,
+          "label": "日照市",
+          "fulllabel": "山东日照市",
+          "value": "02581800",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 251,
+          "label": "临沂市",
+          "fulllabel": "山东临沂市",
+          "value": "02592700",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 248,
+          "label": "济宁市",
+          "fulllabel": "山东济宁市",
+          "value": "02602900",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 246,
+          "label": "菏泽市",
+          "fulllabel": "山东菏泽市",
+          "value": "02612200",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 243,
+          "label": "滨州市",
+          "fulllabel": "山东滨州市",
+          "value": "02622900",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 244,
+          "label": "德州市",
+          "fulllabel": "山东德州市",
+          "value": "02632300",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 253,
+          "label": "泰安市",
+          "fulllabel": "山东泰安市",
+          "value": "02642200",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 257,
+          "label": "枣庄市",
+          "fulllabel": "山东枣庄市",
+          "value": "02650100",
+          "parentId": 19
+        },
+        {
+          "regionLv": 2,
+          "regionId": 249,
+          "label": "莱芜市",
+          "fulllabel": "山东莱芜市",
+          "value": "02661400",
+          "parentId": 19
+        }
+      ],
+      "value": "02120600",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 20,
+      "label": "江苏",
+      "fulllabel": "江苏",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 463,
+          "label": "其它地区",
+          "fulllabel": "江苏其它地区",
+          "value": "03513000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 215,
+          "label": "南京市",
+          "fulllabel": "江苏南京市",
+          "value": "03515500",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 217,
+          "label": "苏州市",
+          "fulllabel": "江苏苏州市",
+          "value": "03528000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 220,
+          "label": "无锡市",
+          "fulllabel": "江苏无锡市",
+          "value": "03532500",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 216,
+          "label": "南通市",
+          "fulllabel": "江苏南通市",
+          "value": "03548000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 214,
+          "label": "连云港市",
+          "fulllabel": "江苏连云港市",
+          "value": "03559000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 219,
+          "label": "泰州市",
+          "fulllabel": "江苏泰州市",
+          "value": "03568000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 223,
+          "label": "扬州市",
+          "fulllabel": "江苏扬州市",
+          "value": "03579000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 213,
+          "label": "淮安市",
+          "fulllabel": "江苏淮安市",
+          "value": "03589000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 224,
+          "label": "镇江市",
+          "fulllabel": "江苏镇江市",
+          "value": "03599000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 218,
+          "label": "宿迁市",
+          "fulllabel": "江苏宿迁市",
+          "value": "03606010",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 221,
+          "label": "徐州市",
+          "fulllabel": "江苏徐州市",
+          "value": "03619000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 222,
+          "label": "盐城市",
+          "fulllabel": "江苏盐城市",
+          "value": "03629000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 212,
+          "label": "常州市",
+          "fulllabel": "江苏常州市",
+          "value": "03639000",
+          "parentId": 20
+        },
+        {
+          "regionLv": 2,
+          "regionId": 225,
+          "label": "南京市辖区",
+          "fulllabel": "江苏南京市辖区",
+          "value": "03640500",
+          "parentId": 20
+        }
+      ],
+      "value": "03513000",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 21,
+      "label": "黑龙江",
+      "fulllabel": "黑龙江",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 210,
+          "label": "绥化市",
+          "fulllabel": "黑龙江绥化市",
+          "value": "04161000",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 464,
+          "label": "其它地区",
+          "fulllabel": "黑龙江其它地区",
+          "value": "04201700",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 201,
+          "label": "哈尔滨市",
+          "fulllabel": "黑龙江哈尔滨市",
+          "value": "04202200",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 206,
+          "label": "牡丹江市",
+          "fulllabel": "黑龙江牡丹江市",
+          "value": "04521700",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 208,
+          "label": "齐齐哈尔市",
+          "fulllabel": "黑龙江齐齐哈尔市",
+          "value": "04541700",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 204,
+          "label": "鸡西市",
+          "fulllabel": "黑龙江鸡西市",
+          "value": "04551500",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 205,
+          "label": "佳木斯市",
+          "fulllabel": "黑龙江佳木斯市",
+          "value": "04561500",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 199,
+          "label": "大庆市",
+          "fulllabel": "黑龙江大庆市",
+          "value": "04572000",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 207,
+          "label": "七台河市",
+          "fulllabel": "黑龙江七台河市",
+          "value": "04581000",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 211,
+          "label": "伊春市",
+          "fulllabel": "黑龙江伊春市",
+          "value": "04591000",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 203,
+          "label": "黑河市",
+          "fulllabel": "黑龙江黑河市",
+          "value": "04601100",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 209,
+          "label": "双鸭山市",
+          "fulllabel": "黑龙江双鸭山市",
+          "value": "04611100",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 200,
+          "label": "大兴安岭市",
+          "fulllabel": "黑龙江大兴安岭市",
+          "value": "04620600",
+          "parentId": 21
+        },
+        {
+          "regionLv": 2,
+          "regionId": 202,
+          "label": "鹤岗市",
+          "fulllabel": "黑龙江鹤岗市",
+          "value": "04630600",
+          "parentId": 21
+        }
+      ],
+      "value": "04201700",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 22,
+      "label": "重庆",
+      "fulllabel": "重庆",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 185,
+          "label": "重庆市",
+          "fulllabel": "重庆重庆市",
+          "value": "05141600",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 465,
+          "label": "其它地区",
+          "fulllabel": "重庆其它地区",
+          "value": "05141900",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 190,
+          "label": "万州区",
+          "fulllabel": "重庆万州区",
+          "value": "05512200",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 197,
+          "label": "綦江区",
+          "fulllabel": "重庆綦江区",
+          "value": "05550500",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 196,
+          "label": "渝北区",
+          "fulllabel": "重庆渝北区",
+          "value": "05560400",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 198,
+          "label": "渝中区",
+          "fulllabel": "重庆渝中区",
+          "value": "05570400",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 194,
+          "label": "涪陵区",
+          "fulllabel": "重庆涪陵区",
+          "value": "05601600",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 187,
+          "label": "南川区",
+          "fulllabel": "重庆南川区",
+          "value": "05691600",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 191,
+          "label": "九龙坡区",
+          "fulllabel": "重庆九龙坡区",
+          "value": "05721600",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 186,
+          "label": "北碚区",
+          "fulllabel": "重庆北碚区",
+          "value": "05772900",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 192,
+          "label": "沙坪坝区",
+          "fulllabel": "重庆沙坪坝区",
+          "value": "05861600",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 189,
+          "label": "巴南区",
+          "fulllabel": "重庆巴南区",
+          "value": "05871600",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 188,
+          "label": "南岸区",
+          "fulllabel": "重庆南岸区",
+          "value": "05881600",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 193,
+          "label": "永川区",
+          "fulllabel": "重庆永川区",
+          "value": "05901600",
+          "parentId": 22
+        },
+        {
+          "regionLv": 2,
+          "regionId": 195,
+          "label": "两江新区",
+          "fulllabel": "重庆两江新区",
+          "value": "05990700",
+          "parentId": 22
+        }
+      ],
+      "value": "05141900",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 23,
+      "label": "河南",
+      "fulllabel": "河南",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 180,
+          "label": "郑州市",
+          "fulllabel": "河南郑州市",
+          "value": "06511000",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 466,
+          "label": "其它地区",
+          "fulllabel": "河南其它地区",
+          "value": "06512000",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 172,
+          "label": "南阳市",
+          "fulllabel": "河南南阳市",
+          "value": "06520900",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 173,
+          "label": "平顶山市",
+          "fulllabel": "河南平顶山市",
+          "value": "06530500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 174,
+          "label": "濮阳市",
+          "fulllabel": "河南濮阳市",
+          "value": "06540500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 178,
+          "label": "信阳市",
+          "fulllabel": "河南信阳市",
+          "value": "06550500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 179,
+          "label": "许昌市",
+          "fulllabel": "河南许昌市",
+          "value": "06560500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 170,
+          "label": "洛阳市",
+          "fulllabel": "河南洛阳市",
+          "value": "06570500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 171,
+          "label": "漯河市",
+          "fulllabel": "河南漯河市",
+          "value": "06581400",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 177,
+          "label": "新乡市",
+          "fulllabel": "河南新乡市",
+          "value": "06590500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 176,
+          "label": "商丘市",
+          "fulllabel": "河南商丘市",
+          "value": "06601400",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 167,
+          "label": "安阳市",
+          "fulllabel": "河南安阳市",
+          "value": "06615000",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 181,
+          "label": "周口市",
+          "fulllabel": "河南周口市",
+          "value": "06630500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 175,
+          "label": "三门峡市",
+          "fulllabel": "河南三门峡市",
+          "value": "06640500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 182,
+          "label": "驻马店市",
+          "fulllabel": "河南驻马店市",
+          "value": "06650500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 169,
+          "label": "开封市",
+          "fulllabel": "河南开封市",
+          "value": "06660500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 168,
+          "label": "鹤壁市",
+          "fulllabel": "河南鹤壁市",
+          "value": "06670500",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 183,
+          "label": "济源市",
+          "fulllabel": "河南济源市",
+          "value": "06680800",
+          "parentId": 23
+        },
+        {
+          "regionLv": 2,
+          "regionId": 184,
+          "label": "郑东新区",
+          "fulllabel": "河南郑东新区",
+          "value": "06695400",
+          "parentId": 23
+        }
+      ],
+      "value": "06513900",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 24,
+      "label": "上海",
+      "fulllabel": "上海",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 162,
+          "label": "上海市",
+          "fulllabel": "上海上海市",
+          "value": "07518800",
+          "parentId": 24
+        },
+        {
+          "regionLv": 2,
+          "regionId": 467,
+          "label": "其它地区",
+          "fulllabel": "上海其它地区",
+          "value": "07519600",
+          "parentId": 24
+        },
+        {
+          "regionLv": 2,
+          "regionId": 166,
+          "label": "松江区",
+          "fulllabel": "上海松江区",
+          "value": "07540200",
+          "parentId": 24
+        },
+        {
+          "regionLv": 2,
+          "regionId": 164,
+          "label": "普陀区",
+          "fulllabel": "上海普陀区",
+          "value": "07570400",
+          "parentId": 24
+        },
+        {
+          "regionLv": 2,
+          "regionId": 165,
+          "label": "浦东新区",
+          "fulllabel": "上海浦东新区",
+          "value": "07620200",
+          "parentId": 24
+        },
+        {
+          "regionLv": 2,
+          "regionId": 163,
+          "label": "闵行区",
+          "fulllabel": "上海闵行区",
+          "value": "07630300",
+          "parentId": 24
+        }
+      ],
+      "value": "07519600",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 25,
+      "label": "广东",
+      "fulllabel": "广东",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 148,
+          "label": "广州市",
+          "fulllabel": "广东广州市",
+          "value": "08512200",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 468,
+          "label": "其它地区",
+          "fulllabel": "广东其它地区",
+          "value": "08515100",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 145,
+          "label": "东莞市",
+          "fulllabel": "广东东莞市",
+          "value": "08522300",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 147,
+          "label": "佛山市",
+          "fulllabel": "广东佛山市",
+          "value": "08532300",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 158,
+          "label": "中山市",
+          "fulllabel": "广东中山市",
+          "value": "08542000",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 150,
+          "label": "江门市",
+          "fulllabel": "广东江门市",
+          "value": "08552300",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 149,
+          "label": "惠州市",
+          "fulllabel": "广东惠州市",
+          "value": "08562100",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 156,
+          "label": "湛江市",
+          "fulllabel": "广东湛江市",
+          "value": "08572100",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 146,
+          "label": "番禺市",
+          "fulllabel": "广东番禺市",
+          "value": "08582000",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 159,
+          "label": "珠海市",
+          "fulllabel": "广东珠海市",
+          "value": "08591900",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 154,
+          "label": "汕头市",
+          "fulllabel": "广东汕头市",
+          "value": "08602400",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 152,
+          "label": "梅州市",
+          "fulllabel": "广东梅州市",
+          "value": "08612000",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 151,
+          "label": "茂名市",
+          "fulllabel": "广东茂名市",
+          "value": "08621700",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 155,
+          "label": "韶关市",
+          "fulllabel": "广东韶关市",
+          "value": "08641800",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 157,
+          "label": "肇庆市",
+          "fulllabel": "广东肇庆市",
+          "value": "08651800",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 153,
+          "label": "清远市",
+          "fulllabel": "广东清远市",
+          "value": "08661700",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 160,
+          "label": "揭阳市",
+          "fulllabel": "广东揭阳市",
+          "value": "08710200",
+          "parentId": 25
+        },
+        {
+          "regionLv": 2,
+          "regionId": 161,
+          "label": "潮州市",
+          "fulllabel": "广东潮州市",
+          "value": "08720600",
+          "parentId": 25
+        }
+      ],
+      "value": "08515100",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 26,
+      "label": "深圳市",
+      "fulllabel": "深圳市",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 138,
+          "label": "深圳",
+          "fulllabel": "深圳市深圳",
+          "value": "09101800",
+          "parentId": 26
+        },
+        {
+          "regionLv": 2,
+          "regionId": 469,
+          "label": "其它地区",
+          "fulllabel": "深圳市其它地区",
+          "value": "09103300",
+          "parentId": 26
+        },
+        {
+          "regionLv": 2,
+          "regionId": 140,
+          "label": "宝安",
+          "fulllabel": "深圳市宝安",
+          "value": "09511100",
+          "parentId": 26
+        },
+        {
+          "regionLv": 2,
+          "regionId": 139,
+          "label": "罗湖",
+          "fulllabel": "深圳市罗湖",
+          "value": "09521000",
+          "parentId": 26
+        },
+        {
+          "regionLv": 2,
+          "regionId": 141,
+          "label": "南山",
+          "fulllabel": "深圳市南山",
+          "value": "09531000",
+          "parentId": 26
+        },
+        {
+          "regionLv": 2,
+          "regionId": 142,
+          "label": "龙岗",
+          "fulllabel": "深圳市龙岗",
+          "value": "09541000",
+          "parentId": 26
+        },
+        {
+          "regionLv": 2,
+          "regionId": 143,
+          "label": "福田",
+          "fulllabel": "深圳市福田",
+          "value": "09551000",
+          "parentId": 26
+        },
+        {
+          "regionLv": 2,
+          "regionId": 144,
+          "label": "中心区",
+          "fulllabel": "深圳市中心区",
+          "value": "09571000",
+          "parentId": 26
+        }
+      ],
+      "value": "09103300",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 27,
+      "label": "天津",
+      "fulllabel": "天津",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 132,
+          "label": "宁河县",
+          "fulllabel": "天津宁河县",
+          "value": "10132700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 126,
+          "label": "宝坻县",
+          "fulllabel": "天津宝坻县",
+          "value": "10142700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 130,
+          "label": "蓟县",
+          "fulllabel": "天津蓟县",
+          "value": "10262700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 127,
+          "label": "大港区",
+          "fulllabel": "天津大港区",
+          "value": "10282700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 137,
+          "label": "和平区",
+          "fulllabel": "天津和平区",
+          "value": "10511600",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 136,
+          "label": "滨海新区",
+          "fulllabel": "天津滨海新区",
+          "value": "10522700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 129,
+          "label": "河东区",
+          "fulllabel": "天津河东区",
+          "value": "10532700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 131,
+          "label": "南开区",
+          "fulllabel": "天津南开区",
+          "value": "10542700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 470,
+          "label": "其它地区",
+          "fulllabel": "天津其它地区",
+          "value": "10552400",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 128,
+          "label": "河西区",
+          "fulllabel": "天津河西区",
+          "value": "10552700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 133,
+          "label": "天津市",
+          "fulllabel": "天津天津市",
+          "value": "10562700",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 134,
+          "label": "武清区",
+          "fulllabel": "天津武清区",
+          "value": "10570300",
+          "parentId": 27
+        },
+        {
+          "regionLv": 2,
+          "regionId": 135,
+          "label": "静海县",
+          "fulllabel": "天津静海县",
+          "value": "10580500",
+          "parentId": 27
+        }
+      ],
+      "value": "10552400",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 28,
+      "label": "青岛市",
+      "fulllabel": "青岛市",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 125,
+          "label": "青岛",
+          "fulllabel": "青岛市青岛",
+          "value": "11281000",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 471,
+          "label": "其它地区",
+          "fulllabel": "青岛市其它地区",
+          "value": "11301800",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 117,
+          "label": "城阳",
+          "fulllabel": "青岛市城阳",
+          "value": "11402000",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 118,
+          "label": "李沧",
+          "fulllabel": "青岛市李沧",
+          "value": "11412000",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 121,
+          "label": "莱西",
+          "fulllabel": "青岛市莱西",
+          "value": "11422000",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 124,
+          "label": "平度",
+          "fulllabel": "青岛市平度",
+          "value": "11434000",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 119,
+          "label": "胶州",
+          "fulllabel": "青岛市胶州",
+          "value": "11513000",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 120,
+          "label": "胶南",
+          "fulllabel": "青岛市胶南",
+          "value": "11522000",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 122,
+          "label": "青岛开发区",
+          "fulllabel": "青岛市青岛开发区",
+          "value": "11532000",
+          "parentId": 28
+        },
+        {
+          "regionLv": 2,
+          "regionId": 123,
+          "label": "崂山",
+          "fulllabel": "青岛市崂山",
+          "value": "11540300",
+          "parentId": 28
+        }
+      ],
+      "value": "11301800",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 29,
+      "label": "辽宁",
+      "fulllabel": "辽宁",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 472,
+          "label": "其它地区",
+          "fulllabel": "辽宁其它地区",
+          "value": "12510700",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 113,
+          "label": "沈阳市",
+          "fulllabel": "辽宁沈阳市",
+          "value": "12512600",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 108,
+          "label": "抚顺市",
+          "fulllabel": "辽宁抚顺市",
+          "value": "12520800",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 109,
+          "label": "葫芦岛市",
+          "fulllabel": "辽宁葫芦岛市",
+          "value": "12530800",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 111,
+          "label": "辽阳市",
+          "fulllabel": "辽宁辽阳市",
+          "value": "12540800",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 432,
+          "label": "阜新市",
+          "fulllabel": "辽宁阜新市",
+          "value": "12550800",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 105,
+          "label": "营口市",
+          "fulllabel": "辽宁营口市",
+          "value": "12570800",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 107,
+          "label": "朝阳市",
+          "fulllabel": "辽宁朝阳市",
+          "value": "12610800",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 106,
+          "label": "鞍山市",
+          "fulllabel": "辽宁鞍山市",
+          "value": "12620800",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 110,
+          "label": "锦州市",
+          "fulllabel": "辽宁锦州市",
+          "value": "12630800",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 112,
+          "label": "盘锦市",
+          "fulllabel": "辽宁盘锦市",
+          "value": "12640500",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 114,
+          "label": "丹东市",
+          "fulllabel": "辽宁丹东市",
+          "value": "12651000",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 116,
+          "label": "铁岭市",
+          "fulllabel": "辽宁铁岭市",
+          "value": "12660900",
+          "parentId": 29
+        },
+        {
+          "regionLv": 2,
+          "regionId": 115,
+          "label": "本溪市",
+          "fulllabel": "辽宁本溪市",
+          "value": "12670900",
+          "parentId": 29
+        }
+      ],
+      "value": "12510700",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 30,
+      "label": "河北",
+      "fulllabel": "河北",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 101,
+          "label": "石家庄市",
+          "fulllabel": "河北石家庄市",
+          "value": "15503200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 473,
+          "label": "其它地区",
+          "fulllabel": "河北其它地区",
+          "value": "15503900",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 103,
+          "label": "邢台市",
+          "fulllabel": "河北邢台市",
+          "value": "15513200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 102,
+          "label": "唐山市",
+          "fulllabel": "河北唐山市",
+          "value": "15523200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 99,
+          "label": "秦皇岛市",
+          "fulllabel": "河北秦皇岛市",
+          "value": "15533200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 97,
+          "label": "邯郸市",
+          "fulllabel": "河北邯郸市",
+          "value": "15543200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 96,
+          "label": "沧州市",
+          "fulllabel": "河北沧州市",
+          "value": "15553200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 95,
+          "label": "保定市",
+          "fulllabel": "河北保定市",
+          "value": "15563200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 98,
+          "label": "衡水市",
+          "fulllabel": "河北衡水市",
+          "value": "15573200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 104,
+          "label": "张家口市",
+          "fulllabel": "河北张家口市",
+          "value": "15583200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 100,
+          "label": "廊坊市",
+          "fulllabel": "河北廊坊市",
+          "value": "15593200",
+          "parentId": 30
+        },
+        {
+          "regionLv": 2,
+          "regionId": 424,
+          "label": "承德市",
+          "fulllabel": "河北承德市",
+          "value": "15601900",
+          "parentId": 30
+        }
+      ],
+      "value": "15503900",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 31,
+      "label": "海南",
+      "fulllabel": "海南",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 86,
+          "label": "海口市",
+          "fulllabel": "海南海口市",
+          "value": "16512100",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 474,
+          "label": "其它地区",
+          "fulllabel": "海南其它地区",
+          "value": "16513100",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 91,
+          "label": "三亚市",
+          "fulllabel": "海南三亚市",
+          "value": "16520600",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 88,
+          "label": "琼海市",
+          "fulllabel": "海南琼海市",
+          "value": "16530300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 90,
+          "label": "万宁市",
+          "fulllabel": "海南万宁市",
+          "value": "16540300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 87,
+          "label": "乐东市",
+          "fulllabel": "海南乐东市",
+          "value": "16550300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 89,
+          "label": "琼中市",
+          "fulllabel": "海南琼中市",
+          "value": "16560300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 85,
+          "label": "东方市",
+          "fulllabel": "海南东方市",
+          "value": "16570300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 83,
+          "label": "澄迈市",
+          "fulllabel": "海南澄迈市",
+          "value": "16580300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 84,
+          "label": "儋州市",
+          "fulllabel": "海南儋州市",
+          "value": "16590300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 80,
+          "label": "文昌市",
+          "fulllabel": "海南文昌市",
+          "value": "16610300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 92,
+          "label": "洋浦市",
+          "fulllabel": "海南洋浦市",
+          "value": "16620300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 81,
+          "label": "五指山市",
+          "fulllabel": "海南五指山市",
+          "value": "16640300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 82,
+          "label": "昌江市",
+          "fulllabel": "海南昌江市",
+          "value": "16660300",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 93,
+          "label": "陵水市",
+          "fulllabel": "海南陵水市",
+          "value": "16670003",
+          "parentId": 31
+        },
+        {
+          "regionLv": 2,
+          "regionId": 94,
+          "label": "保亭市",
+          "fulllabel": "海南保亭市",
+          "value": "16680003",
+          "parentId": 31
+        }
+      ],
+      "value": "16513100",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 32,
+      "label": "广西",
+      "fulllabel": "广西",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 475,
+          "label": "其它地区",
+          "fulllabel": "广西其它地区",
+          "value": "17000000",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 75,
+          "label": "南宁市",
+          "fulllabel": "广西南宁市",
+          "value": "17112200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 70,
+          "label": "百色市",
+          "fulllabel": "广西百色市",
+          "value": "17512200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 74,
+          "label": "柳州市",
+          "fulllabel": "广西柳州市",
+          "value": "17522200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 73,
+          "label": "桂林市",
+          "fulllabel": "广西桂林市",
+          "value": "17532200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 77,
+          "label": "梧州市",
+          "fulllabel": "广西梧州市",
+          "value": "17542200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 71,
+          "label": "北海市",
+          "fulllabel": "广西北海市",
+          "value": "17552200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 72,
+          "label": "贵港市",
+          "fulllabel": "广西贵港市",
+          "value": "17562200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 78,
+          "label": "玉林市",
+          "fulllabel": "广西玉林市",
+          "value": "17572200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 76,
+          "label": "钦州市",
+          "fulllabel": "广西钦州市",
+          "value": "17582200",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 79,
+          "label": "河池市",
+          "fulllabel": "广西河池市",
+          "value": "17590800",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 441,
+          "label": "贺州",
+          "fulllabel": "广西贺州",
+          "value": "17601000",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 442,
+          "label": "防城港",
+          "fulllabel": "广西防城港",
+          "value": "17610600",
+          "parentId": 32
+        },
+        {
+          "regionLv": 2,
+          "regionId": 443,
+          "label": "来宾",
+          "fulllabel": "广西来宾",
+          "value": "17635500",
+          "parentId": 32
+        }
+      ],
+      "value": "17000000",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 33,
+      "label": "湖南",
+      "fulllabel": "湖南",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 58,
+          "label": "长沙市",
+          "fulllabel": "湖南长沙市",
+          "value": "18183200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 476,
+          "label": "其它地区",
+          "fulllabel": "湖南其它地区",
+          "value": "18183800",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 67,
+          "label": "岳阳市",
+          "fulllabel": "湖南岳阳市",
+          "value": "18513200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 63,
+          "label": "娄底市",
+          "fulllabel": "湖南娄底市",
+          "value": "18523200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 64,
+          "label": "邵阳市",
+          "fulllabel": "湖南邵阳市",
+          "value": "18533200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 62,
+          "label": "怀化市",
+          "fulllabel": "湖南怀化市",
+          "value": "18543200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 68,
+          "label": "株洲市",
+          "fulllabel": "湖南株洲市",
+          "value": "18553200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 61,
+          "label": "衡阳市",
+          "fulllabel": "湖南衡阳市",
+          "value": "18563200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 66,
+          "label": "永州市",
+          "fulllabel": "湖南永州市",
+          "value": "18573200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 60,
+          "label": "郴州市",
+          "fulllabel": "湖南郴州市",
+          "value": "18583200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 65,
+          "label": "湘潭市",
+          "fulllabel": "湖南湘潭市",
+          "value": "18593200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 59,
+          "label": "常德市",
+          "fulllabel": "湖南常德市",
+          "value": "18603200",
+          "parentId": 33
+        },
+        {
+          "regionLv": 2,
+          "regionId": 69,
+          "label": "益阳市",
+          "fulllabel": "湖南益阳市",
+          "value": "18610800",
+          "parentId": 33
+        }
+      ],
+      "value": "18183800",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 34,
+      "label": "浙江",
+      "fulllabel": "浙江",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 477,
+          "label": "其它地区",
+          "fulllabel": "浙江其它地区",
+          "value": "19502600",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 46,
+          "label": "杭州市",
+          "fulllabel": "浙江杭州市",
+          "value": "19503500",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 55,
+          "label": "萧山市",
+          "fulllabel": "浙江萧山市",
+          "value": "19511200",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 47,
+          "label": "湖州市",
+          "fulllabel": "浙江湖州市",
+          "value": "19521000",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 48,
+          "label": "嘉兴市",
+          "fulllabel": "浙江嘉兴市",
+          "value": "19531000",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 51,
+          "label": "衢州市",
+          "fulllabel": "浙江衢州市",
+          "value": "19541000",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 52,
+          "label": "绍兴市",
+          "fulllabel": "浙江绍兴市",
+          "value": "19551100",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 53,
+          "label": "台州市",
+          "fulllabel": "浙江台州市",
+          "value": "19561100",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 54,
+          "label": "温州市",
+          "fulllabel": "浙江温州市",
+          "value": "19571000",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 50,
+          "label": "丽水市",
+          "fulllabel": "浙江丽水市",
+          "value": "19580700",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 49,
+          "label": "金华市",
+          "fulllabel": "浙江金华市",
+          "value": "19591000",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 56,
+          "label": "舟山市",
+          "fulllabel": "浙江舟山市",
+          "value": "19601000",
+          "parentId": 34
+        },
+        {
+          "regionLv": 2,
+          "regionId": 57,
+          "label": "杭州郊县",
+          "fulllabel": "浙江杭州郊县",
+          "value": "19610000",
+          "parentId": 34
+        }
+      ],
+      "value": "19502600",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 35,
+      "label": "贵州",
+      "fulllabel": "贵州",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 39,
+          "label": "贵阳市",
+          "fulllabel": "贵州贵阳市",
+          "value": "20081700",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 478,
+          "label": "其它地区",
+          "fulllabel": "贵州其它地区",
+          "value": "20082400",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 45,
+          "label": "都匀市",
+          "fulllabel": "贵州都匀市",
+          "value": "20100900",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 43,
+          "label": "遵义市",
+          "fulllabel": "贵州遵义市",
+          "value": "20512000",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 40,
+          "label": "六盘水市",
+          "fulllabel": "贵州六盘水市",
+          "value": "20521700",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 37,
+          "label": "安顺市",
+          "fulllabel": "贵州安顺市",
+          "value": "20531800",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 41,
+          "label": "凯里市",
+          "fulllabel": "贵州凯里市",
+          "value": "20541700",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 38,
+          "label": "毕节市",
+          "fulllabel": "贵州毕节市",
+          "value": "20551900",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 42,
+          "label": "兴义市",
+          "fulllabel": "贵州兴义市",
+          "value": "20571300",
+          "parentId": 35
+        },
+        {
+          "regionLv": 2,
+          "regionId": 44,
+          "label": "铜仁市",
+          "fulllabel": "贵州铜仁市",
+          "value": "20590800",
+          "parentId": 35
+        }
+      ],
+      "value": "20082400",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 1,
+      "label": "四川",
+      "fulllabel": "四川",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 390,
+          "label": "成都市",
+          "fulllabel": "四川成都市",
+          "value": "21114000",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 444,
+          "label": "其它地区",
+          "fulllabel": "四川其它地区",
+          "value": "21114700",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 400,
+          "label": "武侯区",
+          "fulllabel": "四川武侯区",
+          "value": "21116440",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 394,
+          "label": "绵阳市",
+          "fulllabel": "四川绵阳市",
+          "value": "21512100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 391,
+          "label": "乐山市",
+          "fulllabel": "四川乐山市",
+          "value": "21522100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 393,
+          "label": "眉山市",
+          "fulllabel": "四川眉山市",
+          "value": "21532100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 399,
+          "label": "资阳市",
+          "fulllabel": "四川资阳市",
+          "value": "21542100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 398,
+          "label": "攀枝花",
+          "fulllabel": "四川攀枝花",
+          "value": "21552100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 392,
+          "label": "泸州市",
+          "fulllabel": "四川泸州市",
+          "value": "21562100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 397,
+          "label": "宜宾市",
+          "fulllabel": "四川宜宾市",
+          "value": "21572100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 395,
+          "label": "内江市",
+          "fulllabel": "四川内江市",
+          "value": "21582100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 396,
+          "label": "南充市",
+          "fulllabel": "四川南充市",
+          "value": "21592100",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 401,
+          "label": "德阳市",
+          "fulllabel": "四川德阳市",
+          "value": "21601000",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 435,
+          "label": "达州市",
+          "fulllabel": "四川达州市",
+          "value": "21611000",
+          "parentId": 1
+        },
+        {
+          "regionLv": 2,
+          "regionId": 423,
+          "label": "遂宁市",
+          "fulllabel": "四川遂宁市",
+          "value": "21631100",
+          "parentId": 1
+        }
+      ],
+      "value": "21114700",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 2,
+      "label": "青海",
+      "fulllabel": "青海",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 403,
+          "label": "西宁市",
+          "fulllabel": "青海西宁市",
+          "value": "23111200",
+          "parentId": 2
+        },
+        {
+          "regionLv": 2,
+          "regionId": 445,
+          "label": "其它地区",
+          "fulllabel": "青海其它地区",
+          "value": "23111900",
+          "parentId": 2
+        },
+        {
+          "regionLv": 2,
+          "regionId": 405,
+          "label": "青海海东民和",
+          "fulllabel": "青海青海海东民和",
+          "value": "23305102",
+          "parentId": 2
+        },
+        {
+          "regionLv": 2,
+          "regionId": 402,
+          "label": "格尔木市",
+          "fulllabel": "青海格尔木市",
+          "value": "23410600",
+          "parentId": 2
+        },
+        {
+          "regionLv": 2,
+          "regionId": 404,
+          "label": "青海海南贵德",
+          "fulllabel": "青海青海海南贵德",
+          "value": "23435202",
+          "parentId": 2
+        }
+      ],
+      "value": "23111900",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 3,
+      "label": "云南",
+      "fulllabel": "云南",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 414,
+          "label": "曲靖市",
+          "fulllabel": "云南曲靖市",
+          "value": "24512900",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 417,
+          "label": "玉溪市",
+          "fulllabel": "云南玉溪市",
+          "value": "24522000",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 406,
+          "label": "保山市",
+          "fulllabel": "云南保山市",
+          "value": "24532500",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 418,
+          "label": "昭通市",
+          "fulllabel": "云南昭通市",
+          "value": "24540800",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 421,
+          "label": "春城",
+          "fulllabel": "云南春城",
+          "value": "24561200",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 422,
+          "label": "世博",
+          "fulllabel": "云南世博",
+          "value": "24571100",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 411,
+          "label": "昆明市",
+          "fulllabel": "云南昆明市",
+          "value": "24581200",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 446,
+          "label": "其它地区",
+          "fulllabel": "云南其它地区",
+          "value": "24581500",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 408,
+          "label": "大理市",
+          "fulllabel": "云南大理市",
+          "value": "24591500",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 413,
+          "label": "普洱市",
+          "fulllabel": "云南普洱市",
+          "value": "24601200",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 410,
+          "label": "红河市",
+          "fulllabel": "云南红河市",
+          "value": "24611600",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 407,
+          "label": "楚雄市",
+          "fulllabel": "云南楚雄市",
+          "value": "24621200",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 409,
+          "label": "德宏市",
+          "fulllabel": "云南德宏市",
+          "value": "24631200",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 416,
+          "label": "西双版纳市",
+          "fulllabel": "云南西双版纳市",
+          "value": "24641100",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 412,
+          "label": "临沧市",
+          "fulllabel": "云南临沧市",
+          "value": "24651500",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 415,
+          "label": "文山市",
+          "fulllabel": "云南文山市",
+          "value": "24661100",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 419,
+          "label": "丽江市",
+          "fulllabel": "云南丽江市",
+          "value": "24670800",
+          "parentId": 3
+        },
+        {
+          "regionLv": 2,
+          "regionId": 420,
+          "label": "滇池",
+          "fulllabel": "云南滇池",
+          "value": "24680600",
+          "parentId": 3
+        }
+      ],
+      "value": "24581500",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 4,
+      "label": "陕西",
+      "fulllabel": "陕西",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 447,
+          "label": "其它地区",
+          "fulllabel": "陕西其它地区",
+          "value": "25107600",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 438,
+          "label": "西安市",
+          "fulllabel": "陕西西安市",
+          "value": "25108000",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 385,
+          "label": "渭南市",
+          "fulllabel": "陕西渭南市",
+          "value": "25513000",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 386,
+          "label": "咸阳市",
+          "fulllabel": "陕西咸阳市",
+          "value": "25523000",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 387,
+          "label": "延安市",
+          "fulllabel": "陕西延安市",
+          "value": "25533000",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 388,
+          "label": "榆林市",
+          "fulllabel": "陕西榆林市",
+          "value": "25543000",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 382,
+          "label": "宝鸡市",
+          "fulllabel": "陕西宝鸡市",
+          "value": "25553000",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 383,
+          "label": "汉中市",
+          "fulllabel": "陕西汉中市",
+          "value": "25563000",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 384,
+          "label": "铜川市",
+          "fulllabel": "陕西铜川市",
+          "value": "25573000",
+          "parentId": 4
+        },
+        {
+          "regionLv": 2,
+          "regionId": 389,
+          "label": "安康市",
+          "fulllabel": "陕西安康市",
+          "value": "25590800",
+          "parentId": 4
+        }
+      ],
+      "value": "25107600",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 5,
+      "label": "湖北",
+      "fulllabel": "湖北",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 380,
+          "label": "武汉市",
+          "fulllabel": "湖北武汉市",
+          "value": "26111600",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 448,
+          "label": "其它地区",
+          "fulllabel": "湖北其它地区",
+          "value": "26112700",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 375,
+          "label": "黄石市",
+          "fulllabel": "湖北黄石市",
+          "value": "26511600",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 378,
+          "label": "潜江市",
+          "fulllabel": "湖北潜江市",
+          "value": "26520904",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 377,
+          "label": "荆州市",
+          "fulllabel": "湖北荆州市",
+          "value": "26521800",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 376,
+          "label": "荆门市",
+          "fulllabel": "湖北荆门市",
+          "value": "26531300",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 372,
+          "label": "襄樊市",
+          "fulllabel": "湖北襄樊市",
+          "value": "26541900",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 381,
+          "label": "黄冈市",
+          "fulllabel": "湖北黄冈市",
+          "value": "26551700",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 373,
+          "label": "宜昌市",
+          "fulllabel": "湖北宜昌市",
+          "value": "26561200",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 379,
+          "label": "十堰市",
+          "fulllabel": "湖北十堰市",
+          "value": "26571200",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 374,
+          "label": "恩施市",
+          "fulllabel": "湖北恩施市",
+          "value": "26580400",
+          "parentId": 5
+        },
+        {
+          "regionLv": 2,
+          "regionId": 371,
+          "label": "咸宁市",
+          "fulllabel": "湖北咸宁市",
+          "value": "26591100",
+          "parentId": 5
+        }
+      ],
+      "value": "26112700",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 6,
+      "label": "吉林",
+      "fulllabel": "吉林",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 341,
+          "label": "通化市",
+          "fulllabel": "吉林通化市",
+          "value": "27511400",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 335,
+          "label": "白山市",
+          "fulllabel": "吉林白山市",
+          "value": "27521500",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 342,
+          "label": "延边市",
+          "fulllabel": "吉林延边市",
+          "value": "27531700",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 337,
+          "label": "吉林市",
+          "fulllabel": "吉林吉林市",
+          "value": "27541300",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 336,
+          "label": "长春市",
+          "fulllabel": "吉林长春市",
+          "value": "27552600",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 449,
+          "label": "其它地区",
+          "fulllabel": "吉林其它地区",
+          "value": "27554200",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 340,
+          "label": "松原市",
+          "fulllabel": "吉林松原市",
+          "value": "27560600",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 339,
+          "label": "四平市",
+          "fulllabel": "吉林四平市",
+          "value": "27570500",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 338,
+          "label": "辽源市",
+          "fulllabel": "吉林辽源市",
+          "value": "27580700",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 334,
+          "label": "白城市",
+          "fulllabel": "吉林白城市",
+          "value": "27590600",
+          "parentId": 6
+        },
+        {
+          "regionLv": 2,
+          "regionId": 343,
+          "label": "长白山",
+          "fulllabel": "吉林长白山",
+          "value": "27600800",
+          "parentId": 6
+        }
+      ],
+      "value": "27554200",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 7,
+      "label": "新疆",
+      "fulllabel": "新疆",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 356,
+          "label": "乌鲁木齐市",
+          "fulllabel": "新疆乌鲁木齐市",
+          "value": "28201600",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 450,
+          "label": "其它地区",
+          "fulllabel": "新疆其它地区",
+          "value": "28205109",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 353,
+          "label": "奎屯",
+          "fulllabel": "新疆奎屯",
+          "value": "28320800",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 348,
+          "label": "沙依巴克区",
+          "fulllabel": "新疆沙依巴克区",
+          "value": "28504700",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 350,
+          "label": "天山",
+          "fulllabel": "新疆天山",
+          "value": "28512000",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 345,
+          "label": "昌吉",
+          "fulllabel": "新疆昌吉",
+          "value": "28520500",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 349,
+          "label": "石河子",
+          "fulllabel": "新疆石河子",
+          "value": "28532000",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 354,
+          "label": "阿克苏",
+          "fulllabel": "新疆阿克苏",
+          "value": "28540500",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 357,
+          "label": "哈密市",
+          "fulllabel": "新疆哈密市",
+          "value": "28550500",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 352,
+          "label": "伊犁",
+          "fulllabel": "新疆伊犁",
+          "value": "28563000",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 347,
+          "label": "克拉玛依",
+          "fulllabel": "新疆克拉玛依",
+          "value": "28592600",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 344,
+          "label": "巴音郭楞蒙古自治州",
+          "fulllabel": "新疆巴音郭楞蒙古自治州",
+          "value": "28621300",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 346,
+          "label": "喀什",
+          "fulllabel": "新疆喀什",
+          "value": "28652800",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 355,
+          "label": "喀什市",
+          "fulllabel": "新疆喀什市",
+          "value": "28652800",
+          "parentId": 7
+        },
+        {
+          "regionLv": 2,
+          "regionId": 351,
+          "label": "新市区",
+          "fulllabel": "新疆新市区",
+          "value": "28662000",
+          "parentId": 7
+        }
+      ],
+      "value": "28205109",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 8,
+      "label": "宁波市",
+      "fulllabel": "宁波市",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 369,
+          "label": "宁波开发区",
+          "fulllabel": "宁波市宁波开发区",
+          "value": "29510400",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 358,
+          "label": "宁波高新区",
+          "fulllabel": "宁波市宁波高新区",
+          "value": "29520600",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 370,
+          "label": "宁波江北区",
+          "fulllabel": "宁波市宁波江北区",
+          "value": "29530600",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 359,
+          "label": "慈溪区",
+          "fulllabel": "宁波市慈溪区",
+          "value": "29612000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 360,
+          "label": "余姚区",
+          "fulllabel": "宁波市余姚区",
+          "value": "29622000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 361,
+          "label": "宁海县",
+          "fulllabel": "宁波市宁海县",
+          "value": "29632000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 362,
+          "label": "北仑区",
+          "fulllabel": "宁波市北仑区",
+          "value": "29642000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 363,
+          "label": "奉化区",
+          "fulllabel": "宁波市奉化区",
+          "value": "29652000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 364,
+          "label": "鄞州区",
+          "fulllabel": "宁波市鄞州区",
+          "value": "29662000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 365,
+          "label": "镇海区",
+          "fulllabel": "宁波市镇海区",
+          "value": "29672000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 366,
+          "label": "象山县",
+          "fulllabel": "宁波市象山县",
+          "value": "29682000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 368,
+          "label": "江东区",
+          "fulllabel": "宁波市江东区",
+          "value": "29692000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 367,
+          "label": "宁波市辖区",
+          "fulllabel": "宁波市宁波市辖区",
+          "value": "29812000",
+          "parentId": 8
+        },
+        {
+          "regionLv": 2,
+          "regionId": 451,
+          "label": "其它地区",
+          "fulllabel": "宁波市其它地区",
+          "value": "29814100",
+          "parentId": 8
+        }
+      ],
+      "value": "29814100",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 9,
+      "label": "山西",
+      "fulllabel": "山西",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 329,
+          "label": "太原市",
+          "fulllabel": "山西太原市",
+          "value": "30511200",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 452,
+          "label": "其它地区",
+          "fulllabel": "山西其它地区",
+          "value": "30512400",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 426,
+          "label": "小店",
+          "fulllabel": "山西小店",
+          "value": "30541900",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 331,
+          "label": "运城市",
+          "fulllabel": "山西运城市",
+          "value": "30551200",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 325,
+          "label": "晋城市",
+          "fulllabel": "山西晋城市",
+          "value": "30561200",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 327,
+          "label": "吕梁市",
+          "fulllabel": "山西吕梁市",
+          "value": "30571200",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 324,
+          "label": "大同市",
+          "fulllabel": "山西大同市",
+          "value": "30581200",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 330,
+          "label": "阳泉市",
+          "fulllabel": "山西阳泉市",
+          "value": "30591200",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 328,
+          "label": "朔州市",
+          "fulllabel": "山西朔州市",
+          "value": "30601200",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 326,
+          "label": "晋中市",
+          "fulllabel": "山西晋中市",
+          "value": "30611200",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 323,
+          "label": "长治市",
+          "fulllabel": "山西长治市",
+          "value": "30621300",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 332,
+          "label": "临汾市",
+          "fulllabel": "山西临汾市",
+          "value": "30631700",
+          "parentId": 9
+        },
+        {
+          "regionLv": 2,
+          "regionId": 333,
+          "label": "忻州市",
+          "fulllabel": "山西忻州市",
+          "value": "30640800",
+          "parentId": 9
+        }
+      ],
+      "value": "30512400",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 10,
+      "label": "大连市",
+      "fulllabel": "大连市",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 314,
+          "label": "大连",
+          "fulllabel": "大连市大连",
+          "value": "31090030",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 453,
+          "label": "其它地区",
+          "fulllabel": "大连市其它地区",
+          "value": "31090037",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 316,
+          "label": "中山",
+          "fulllabel": "大连市中山",
+          "value": "31510015",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 318,
+          "label": "开发区",
+          "fulllabel": "大连市开发区",
+          "value": "31520015",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 319,
+          "label": "庄河",
+          "fulllabel": "大连市庄河",
+          "value": "31530015",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 317,
+          "label": "西岗",
+          "fulllabel": "大连市西岗",
+          "value": "31550015",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 320,
+          "label": "瓦房店",
+          "fulllabel": "大连市瓦房店",
+          "value": "31560015",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 321,
+          "label": "普兰",
+          "fulllabel": "大连市普兰",
+          "value": "31570015",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 322,
+          "label": "金州",
+          "fulllabel": "大连市金州",
+          "value": "31580015",
+          "parentId": 10
+        },
+        {
+          "regionLv": 2,
+          "regionId": 315,
+          "label": "旅顺",
+          "fulllabel": "大连市旅顺",
+          "value": "31590015",
+          "parentId": 10
+        }
+      ],
+      "value": "31090037",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 11,
+      "label": "甘肃",
+      "fulllabel": "甘肃",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 304,
+          "label": "白银市",
+          "fulllabel": "甘肃白银市",
+          "value": "32205000",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 305,
+          "label": "定西市",
+          "fulllabel": "甘肃定西市",
+          "value": "32304000",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 306,
+          "label": "酒泉市",
+          "fulllabel": "甘肃酒泉市",
+          "value": "32405000",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 454,
+          "label": "其它地区",
+          "fulllabel": "甘肃其它地区",
+          "value": "32500900",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 307,
+          "label": "兰州市",
+          "fulllabel": "甘肃兰州市",
+          "value": "32505000",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 308,
+          "label": "平凉市",
+          "fulllabel": "甘肃平凉市",
+          "value": "32510900",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 309,
+          "label": "庆阳市",
+          "fulllabel": "甘肃庆阳市",
+          "value": "32520600",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 312,
+          "label": "张掖市",
+          "fulllabel": "甘肃张掖市",
+          "value": "32530900",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 310,
+          "label": "临夏市",
+          "fulllabel": "甘肃临夏市",
+          "value": "32540600",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 311,
+          "label": "陇南市",
+          "fulllabel": "甘肃陇南市",
+          "value": "32550600",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 313,
+          "label": "武威市",
+          "fulllabel": "甘肃武威市",
+          "value": "32560900",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 425,
+          "label": "金昌市",
+          "fulllabel": "甘肃金昌市",
+          "value": "32571500",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 436,
+          "label": "天水市",
+          "fulllabel": "甘肃天水市",
+          "value": "32580200",
+          "parentId": 11
+        },
+        {
+          "regionLv": 2,
+          "regionId": 437,
+          "label": "甘南市",
+          "fulllabel": "甘肃甘南市",
+          "value": "32590700",
+          "parentId": 11
+        }
+      ],
+      "value": "32500900",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 12,
+      "label": "安徽",
+      "fulllabel": "安徽",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 297,
+          "label": "合肥市",
+          "fulllabel": "安徽合肥市",
+          "value": "33511900",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 455,
+          "label": "其它地区",
+          "fulllabel": "安徽其它地区",
+          "value": "33513000",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 296,
+          "label": "阜阳市",
+          "fulllabel": "安徽阜阳市",
+          "value": "33521800",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 295,
+          "label": "滁州市",
+          "fulllabel": "安徽滁州市",
+          "value": "33531600",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 298,
+          "label": "淮南市",
+          "fulllabel": "安徽淮南市",
+          "value": "33541500",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 299,
+          "label": "芜湖市",
+          "fulllabel": "安徽芜湖市",
+          "value": "33561500",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 294,
+          "label": "蚌埠市",
+          "fulllabel": "安徽蚌埠市",
+          "value": "33571100",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 293,
+          "label": "安庆市",
+          "fulllabel": "安徽安庆市",
+          "value": "33581100",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 300,
+          "label": "亳州市",
+          "fulllabel": "安徽亳州市",
+          "value": "33590900",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 301,
+          "label": "六安市",
+          "fulllabel": "安徽六安市",
+          "value": "33600500",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 303,
+          "label": "马鞍山",
+          "fulllabel": "安徽马鞍山",
+          "value": "33610700",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 302,
+          "label": "宿州市",
+          "fulllabel": "安徽宿州市",
+          "value": "33620700",
+          "parentId": 12
+        },
+        {
+          "regionLv": 2,
+          "regionId": 440,
+          "label": "宣城市",
+          "fulllabel": "安徽宣城市",
+          "value": "33631400",
+          "parentId": 12
+        }
+      ],
+      "value": "33513000",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 13,
+      "label": "江西",
+      "fulllabel": "江西",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 284,
+          "label": "南昌市",
+          "fulllabel": "江西南昌市",
+          "value": "34103700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 456,
+          "label": "其它地区",
+          "fulllabel": "江西其它地区",
+          "value": "34105600",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 289,
+          "label": "抚州市",
+          "fulllabel": "江西抚州市",
+          "value": "34513700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 285,
+          "label": "上饶市",
+          "fulllabel": "江西上饶市",
+          "value": "34523700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 283,
+          "label": "九江市",
+          "fulllabel": "江西九江市",
+          "value": "34533700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 439,
+          "label": "萍乡市",
+          "fulllabel": "江西萍乡市",
+          "value": "34541500",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 286,
+          "label": "宜春市",
+          "fulllabel": "江西宜春市",
+          "value": "34553700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 291,
+          "label": "吉安市",
+          "fulllabel": "江西吉安市",
+          "value": "34563700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 290,
+          "label": "赣州市",
+          "fulllabel": "江西赣州市",
+          "value": "34573700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 292,
+          "label": "景德镇市",
+          "fulllabel": "江西景德镇市",
+          "value": "34583700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 287,
+          "label": "鹰潭市",
+          "fulllabel": "江西鹰潭市",
+          "value": "34593700",
+          "parentId": 13
+        },
+        {
+          "regionLv": 2,
+          "regionId": 288,
+          "label": "新余市",
+          "fulllabel": "江西新余市",
+          "value": "34600700",
+          "parentId": 13
+        }
+      ],
+      "value": "34105600",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 14,
+      "label": "福建",
+      "fulllabel": "福建",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 282,
+          "label": "福州市国业",
+          "fulllabel": "福建福州市国业",
+          "value": "35080900",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 280,
+          "label": "龙岩市",
+          "fulllabel": "福建龙岩市",
+          "value": "35510900",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 281,
+          "label": "南平市",
+          "fulllabel": "福建南平市",
+          "value": "35520100",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 433,
+          "label": "宁德市",
+          "fulllabel": "福建宁德市",
+          "value": "35531500",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 276,
+          "label": "福州市",
+          "fulllabel": "福建福州市",
+          "value": "35911800",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 457,
+          "label": "其它地区",
+          "fulllabel": "福建其它地区",
+          "value": "35913900",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 277,
+          "label": "莆田市",
+          "fulllabel": "福建莆田市",
+          "value": "35941500",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 278,
+          "label": "泉州市",
+          "fulllabel": "福建泉州市",
+          "value": "35951800",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 275,
+          "label": "漳州市",
+          "fulllabel": "福建漳州市",
+          "value": "35961300",
+          "parentId": 14
+        },
+        {
+          "regionLv": 2,
+          "regionId": 279,
+          "label": "三明市",
+          "fulllabel": "福建三明市",
+          "value": "35981400",
+          "parentId": 14
+        }
+      ],
+      "value": "35913900",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 15,
+      "label": "内蒙古",
+      "fulllabel": "内蒙古",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 265,
+          "label": "呼和浩特市",
+          "fulllabel": "内蒙古呼和浩特市",
+          "value": "36512200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 458,
+          "label": "其它地区",
+          "fulllabel": "内蒙古其它地区",
+          "value": "36513100",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 263,
+          "label": "包头市",
+          "fulllabel": "内蒙古包头市",
+          "value": "36522200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 264,
+          "label": "鄂尔多斯市",
+          "fulllabel": "内蒙古鄂尔多斯市",
+          "value": "36532200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 268,
+          "label": "锡林浩特市",
+          "fulllabel": "内蒙古锡林浩特市",
+          "value": "36552200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 270,
+          "label": "赤峰市",
+          "fulllabel": "内蒙古赤峰市",
+          "value": "36562200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 266,
+          "label": "通辽市",
+          "fulllabel": "内蒙古通辽市",
+          "value": "36582200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 267,
+          "label": "乌兰察布市",
+          "fulllabel": "内蒙古乌兰察布市",
+          "value": "36592200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 269,
+          "label": "巴彦淖尔市",
+          "fulllabel": "内蒙古巴彦淖尔市",
+          "value": "36602200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 271,
+          "label": "乌海市",
+          "fulllabel": "内蒙古乌海市",
+          "value": "36612200",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 272,
+          "label": "乌兰浩特市",
+          "fulllabel": "内蒙古乌兰浩特市",
+          "value": "36620500",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 273,
+          "label": "呼伦贝尔市",
+          "fulllabel": "内蒙古呼伦贝尔市",
+          "value": "36630500",
+          "parentId": 15
+        },
+        {
+          "regionLv": 2,
+          "regionId": 274,
+          "label": "阿拉善盟",
+          "fulllabel": "内蒙古阿拉善盟",
+          "value": "36650700",
+          "parentId": 15
+        }
+      ],
+      "value": "36513100",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 16,
+      "label": "厦门市",
+      "fulllabel": "厦门市",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 261,
+          "label": "厦门",
+          "fulllabel": "厦门市厦门",
+          "value": "37512300",
+          "parentId": 16
+        },
+        {
+          "regionLv": 2,
+          "regionId": 459,
+          "label": "其它地区",
+          "fulllabel": "厦门市其它地区",
+          "value": "37512700",
+          "parentId": 16
+        },
+        {
+          "regionLv": 2,
+          "regionId": 259,
+          "label": "同安区",
+          "fulllabel": "厦门市同安区",
+          "value": "37520600",
+          "parentId": 16
+        },
+        {
+          "regionLv": 2,
+          "regionId": 260,
+          "label": "湖里区",
+          "fulllabel": "厦门市湖里区",
+          "value": "37530100",
+          "parentId": 16
+        },
+        {
+          "regionLv": 2,
+          "regionId": 262,
+          "label": "思明区",
+          "fulllabel": "厦门市思明区",
+          "value": "37541000",
+          "parentId": 16
+        }
+      ],
+      "value": "37512700",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 17,
+      "label": "宁夏",
+      "fulllabel": "宁夏",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 230,
+          "label": "银川市",
+          "fulllabel": "宁夏银川市",
+          "value": "38510500",
+          "parentId": 17
+        },
+        {
+          "regionLv": 2,
+          "regionId": 460,
+          "label": "其它地区",
+          "fulllabel": "宁夏其它地区",
+          "value": "38510700",
+          "parentId": 17
+        },
+        {
+          "regionLv": 2,
+          "regionId": 226,
+          "label": "吴忠市",
+          "fulllabel": "宁夏吴忠市",
+          "value": "38520200",
+          "parentId": 17
+        },
+        {
+          "regionLv": 2,
+          "regionId": 227,
+          "label": "石嘴山市",
+          "fulllabel": "宁夏石嘴山市",
+          "value": "38530700",
+          "parentId": 17
+        },
+        {
+          "regionLv": 2,
+          "regionId": 228,
+          "label": "中卫市",
+          "fulllabel": "宁夏中卫市",
+          "value": "38540600",
+          "parentId": 17
+        },
+        {
+          "regionLv": 2,
+          "regionId": 229,
+          "label": "固原市",
+          "fulllabel": "宁夏固原市",
+          "value": "38550600",
+          "parentId": 17
+        }
+      ],
+      "value": "38510700",
+      "parentId": 0
+    },
+    {
+      "regionLv": 1,
+      "regionId": 36,
+      "label": "西藏",
+      "fulllabel": "西藏",
+      "children": [
+        {
+          "regionLv": 2,
+          "regionId": 427,
+          "label": "拉萨",
+          "fulllabel": "西藏拉萨",
+          "value": "39510900",
+          "parentId": 36
+        },
+        {
+          "regionLv": 2,
+          "regionId": 428,
+          "label": "日喀则",
+          "fulllabel": "西藏日喀则",
+          "value": "39521100",
+          "parentId": 36
+        },
+        {
+          "regionLv": 2,
+          "regionId": 429,
+          "label": "林芝",
+          "fulllabel": "西藏林芝",
+          "value": "39531200",
+          "parentId": 36
+        },
+        {
+          "regionLv": 2,
+          "regionId": 430,
+          "label": "山南",
+          "fulllabel": "西藏山南",
+          "value": "39540700",
+          "parentId": 36
+        },
+        {
+          "regionLv": 2,
+          "regionId": 431,
+          "label": "昌都",
+          "fulllabel": "西藏昌都",
+          "value": "39550400",
+          "parentId": 36
+        }
+      ],
+      "value": "39000000",
+      "parentId": 0
+    }
+  ]
+}
