@@ -1,26 +1,32 @@
 <template>
   <div id="app">
-    <router-view></router-view>
+    <div id="nav">
+      <router-link to="/">Home</router-link> |
+      <router-link to="/about">About</router-link>
+    </div>
+    <router-view />
   </div>
 </template>
 
-<script>
-export default {
-  name: 'App',
-  watch: {
-    '$route'(to, from) { //监听路由是否变化
-      console.log(to)
-      console.log(from)
-      if (to.path == from.path && JSON.stringify(to.query) != JSON.stringify(from.query)) {
-        window.location.reload()
-      }
-    }
-  },
-}
-</script>
-
-<style scoped>
+<style>
 #app {
-  height: 100%;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+#nav {
+  padding: 30px;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+#nav a.router-link-exact-active {
+  color: #42b983;
 }
 </style>
