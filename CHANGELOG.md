@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/chb3906/hello-world/compare/v0.1.1...v0.1.2) (2022-04-24)
+
+
+### Bug Fixes
+
+* a bug fix ([8d62416](https://github.com/chb3906/hello-world/commit/8d62416ab2ace915f6ddde9697bfcf9af1509a12))
+
 ### 0.1.1 (2022-04-19)
 
 
